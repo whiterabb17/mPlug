@@ -1,12 +1,12 @@
-<img align="left" src="https://img.shields.io/badge/Author-s1l3nt78-blueviolet"><a href="https://www.codefactor.io/repository/github/s1l3nt78/sifter"><img align="right" src="https://www.codefactor.io/repository/github/Sifter-Ex/fPlug/badge" alt="CodeFactor" /></a><br/>
+<img align="left" src="https://img.shields.io/badge/Author-s1l3nt78-blueviolet"><a href="https://www.codefactor.io/repository/github/whiterabb17/sifter"><img align="right" src="https://www.codefactor.io/repository/github/whiterabb17/fPlug/badge" alt="CodeFactor" /></a><br/>
 <p align="center"><img align="center" src="https://img.shields.io/badge/-The_Dead_Bunny_Collective-green"></p>
 <br />
 <p align="center">
-	<img align="center" src="https://raw.githubusercontent.com/s1l3nt78/sifter/master/docs/sifter.png">
+	<img align="center" src="https://raw.githubusercontent.com/whiterabb17/sifter/master/docs/sifter.png">
 <br>
-  	<img align="center" src="https://img.shields.io/github/issues/Sifter-Ex/mPlug">
-  	<img align="center" src="https://img.shields.io/github/forks/Sifter-Ex/mPlug">
-  	<img align="center" src="https://img.shields.io/github/stars/Sifter-Ex/mPlug">		  
+  	<img align="center" src="https://img.shields.io/github/issues/whiterabb17/mPlug">
+  	<img align="center" src="https://img.shields.io/github/forks/whiterabb17/mPlug">
+  	<img align="center" src="https://img.shields.io/github/stars/whiterabb17/mPlug">		  
 <br>
 	<img align="center" src="https://img.shields.io/badge/Sifter Version-Violet-violet">
 <br />
